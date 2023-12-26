@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "name":" AVIPIRAVIR 200 MG 40 TAB",
+        "price": 812,
+        "image": "https://evawebsite.blob.core.windows.net/media/assets/Avipiravir_200_mg_852bbe84fa.png"
+
+    },
+    {
+        "id": 2, 
+        "name":" LIMITLESS ALLZYME MAX 20 TAB",
+        "price": 92,
+        "image": "https://www.ebrampharmacies.com/wp-content/uploads/2022/05/LIMITLESS-ALLZYME-500x500-1.png"
+    },
+    {
+        "id": 3,
+        "name":" BUSCOPAN 10 MG 20 TAB 1ST. (NEW)",
+        "price": 23,
+        "image": "https://mydrxm.com/cdn/shop/files/bild3521828_580x.png?v=1685125674"
+
+    },
+    {
+        "id": 4,
+        "name":" GOVITA VITAMIN C 60 GUMMIES",
+        "price": 79,
+        "image": "https://www.gevityvitamins.com/cdn/shop/products/vitamincgumies_1024x1024.png?v=1609700236"
+    },
+    {
+        "id": 5,
+        "name":" BOBAI HYDROCARE SUNSCREEN GEL SPF 50+",
+        "price": 220,
+        "image": "https://wuilt-assets-v2-dev.s3.amazonaws.com/clk3zf1wt0emx01h20bmdaiso_gel.png"
+    },
+    {
+        "id": 6,
+        "name":" Whitening Roll-on - Sweet Vanilla Scented – Starville",
+        "price": 111,
+        "image": "https://ar-eg.sourcebeauty.com/cdn/shop/files/Starville-Whitening-Deodeorant-Vanilla-Scent-2-Source-Beauty-Egypt_1000x.png?v=1701934977"
+    },
+    {
+        "id": 7,
+        "name":" Panadol cold & flu (vapour release) 10 sachets",
+        "price": 85,
+        "image": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/panadol-reborn/en_ME/product-detail/380x463-new/Panadol-Vapour-Release-380x463.png?auto=format"
+    },
+    {
+        "id": 8,
+        "name":" J&J bita-rich smoothing body wash 250ML yougurt honey & oats",
+        "price": 37,
+        "image": "https://www.checkers.co.za/medias/10622944EA-checkers515Wx515H?context=bWFzdGVyfGltYWdlc3wxMzkyMjV8aW1hZ2UvcG5nfGltYWdlcy9oZWMvaDllLzg5NDAwMTgzMzU3NzQucG5nfGU0NWI2MGZhMDg5MGFkNDFlZGE0NWJhY2Y0NTcyZWRhM2E2ZjAzMTk2MWE4NDY2NzNkZjJkZDFkMDcwMTZlMGI"
+    },
+    {
+        "id": 9,
+        "name":" TOBREX 0.3% EYE DROPS 5 ML",
+        "price": 19,
+        "image": "https://www.aversi.ge/uploads/matimg/7e621ace4700d002de30f1433e721410.png"
+
+    },
+    {
+        "id": 10, 
+        "name":" TOBRADEX 3.5 GM EYE OINT",
+        "price": 32,
+        "image": "https://medicalstore.com.pk/wp-content/uploads/2020/05/10931093Tobradex-Eye-Oint-3.png"
+    },
+    {
+        "id": 11,
+        "name":" SEROPIPE HAIR SERUM 100ML",
+        "price": 235,
+        "image": "https://anwar.store/cdn/shop/products/SEROPIPE-HAIR-SERUM-100ML-Anwar-Store-0_1024x1024.webp?v=1673153449"
+    },
+    {
+        "id": 12,
+        "name":" Vatika Argan Styling Hair Cream - 140ml",
+        "price": 33,
+        "image": "https://mcprod.hyperone.com.eg/media/catalog/product/cache/1ca275941aea0ae98b372dcb44b7c67a/6/2/6224007940051_-_140ml.png"
+    },
+    {
+        "id": 13,
+        "name":" DETTOL anty bacterial soap 175GM original",
+        "price": 24,
+        "image": "https://media-services.digital-rb.com/s3/live-productcatalogue/sys-master/images/hda/h30/8836706566174/Dettol%20Anti-Bacterial%20Bar%20Soap%20Original%20175gm.png"
+    },
+    {
+        "id": 14,
+        "name":" TREMFYA 100 MG / ML 1 SYRINGE",
+        "price": "34,757",
+        "image": "https://www.grxstatic.com/d4fuqqd5l3dbz/products/cwf_tms/Package_28378.PNG"
+    },
+    {
+        "id": 15,
+        "name":" BEPANTHEN 5% 30 GM CREAM",
+        "price": 125,
+        "image": "https://www.aversi.ge/uploads/matimg/227465d7f80a0f6c6a9a80dbb15cbba1.png"
+    },
+    {
+        "id": 16,
+        "name":" ENEMAX – SOLUTION 120 ML",
+        "price": 26,
+        "image": "https://warapharmacy.com/content/images/thumbs/62f/62f147f7fe00c49faf359896_enemax-120-solution.png"
+    }
+
+]
